@@ -7,7 +7,6 @@ console.log("hello world");
 
 // console.log(person, age);
 
-//write a program that store the user infrom about their birth year and birth calculator age    
-const alert ("uer inform about birth year and birth calculator age");
-const user = prompt("how old are you?");
-console.log(user);
+//write a program that store the user infrom about their birth year and birth calculator age
+const year = prompt("what is your birth year?");
+console.log(year);
